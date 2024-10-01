@@ -1,7 +1,7 @@
 
-## Hi there 👋 It's me Hariprasath
+<h1 align="center"> Hi there 👋 It's me Hariprasath</h1>
+<h3 align="center">A Full Stack Developer from India</h3>
 
-Full Stack Developer
 - 🔭 Here's my [portfolio](https://hariprasath2030.my.canva.site/portfoliohari)                                                 
 - 🌱 I’m currently learning Mern Stack
 - 👯 I’m looking to collaborate Full Stack Web Developer
